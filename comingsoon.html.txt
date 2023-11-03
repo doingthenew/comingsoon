@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html amp>
+  <head>
+    <meta charset="utf-8">
+    <title>Coming Soon</title>
+    <link rel="canonical" href="your-website-url-here">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-custom>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+        margin: 0;
+      }
+      header {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+      }
+      header img {
+        max-width: 100%;
+        height: auto;
+      }
+      .coming-soon {
+        text-align: center;
+        margin-top: 100px;
+      }
+      .coming-soon img {
+        max-width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <img src="your-logo-image-url-here" alt="Your Logo">
+    </header>
+    <div class="coming-soon">
+      <img src="coming-soon-image-url-here" alt="Coming Soon">
+    </div>
+  </body>
+</html>
